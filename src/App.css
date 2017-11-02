@@ -1,0 +1,19 @@
+html,body { height: 100%; margin: 0px; padding: 0px; }
+
+#root { height: 100%; }
+
+.App {
+  display: flex;
+  height: 100%;
+}
+
+.left {
+  background-color: pink;
+  width: 50%;
+}
+
+.right {
+  background-color: lightblue;
+  width: 50%;
+  height: 100%;
+}
